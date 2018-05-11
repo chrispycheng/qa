@@ -1,0 +1,3 @@
+[submodule "derivatives/mriqc"]
+	path = derivatives/mriqc
+	url = ./derivatives/mriqc
